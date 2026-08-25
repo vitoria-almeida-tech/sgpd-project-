@@ -5,9 +5,9 @@ O projeto tem como objetivo otimizar a abertura e o acompanhamento de chamados c
 A ideia central foi criar um protótipo funcional que unisse **arquitetura da informação** e **boa experiência do usuário (UX)**.
 
 ## 🛠️ Tecnologias Utilizadas
-- **Figma** → prototipagem navegável (10 telas principais: login, dashboard, abertura de chamados, acompanhamento).  
-- **Trello** → organização do cronograma, priorização de tarefas e acompanhamento das entregas.  
-- **Metodologias Ágeis (Kanban)** → gestão do fluxo de trabalho e etapas do projeto.  
+- **Figma** → Prototipagem navegável (10 telas principais: login, dashboard, abertura de chamados, acompanhamento). 🔗 [Clique aqui para testar o protótipo no Figma](https://www.figma.com/design/hGOZDAzZNskBq4QFhgjus6/Sem-t%C3%ADtulo?node-id=0-1&t=XccmYDVarQc29xvv-1)
+- **Trello** → Organização do cronograma, priorização de tarefas e acompanhamento das entregas.  
+- **Metodologias Ágeis (Kanban)** → Gestão do fluxo de trabalho e etapas do projeto.  
 
 ## 📚 Aprendizados Consolidados
 - Desenvolvimento de protótipos de baixa e alta fidelidade em Figma.  
