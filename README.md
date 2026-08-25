@@ -16,8 +16,8 @@ A ideia central foi criar um protótipo funcional que unisse **arquitetura da in
 - Capacidade de mapear requisitos e transformar necessidades em soluções digitais.  
 
 ## 🚀 Próximos Passos
-- Evoluir o protótipo para uma versão funcional com integração em Python.  
-- Explorar automação de processos e análise de dados para otimizar ainda mais o fluxo de chamados.  
+Este é meu primeiro protótipo em Figma, criado como parte do aprendizado inicial em UX/UI.  
+Pretendo evoluir o projeto para uma versão funcional com integração em Python, além de explorar automação de processos e análise de dados para otimizar ainda mais o fluxo de chamados. 
 
 ---
 
